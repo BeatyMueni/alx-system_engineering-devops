@@ -1,1 +1,2 @@
-this is a shell project
+#!/bin/bash
+This is a shell project
