@@ -1,2 +1,4 @@
 #!/bin/bash
 ls -tp | tail
+#!/bin/bash
+ls -lt | head -10
